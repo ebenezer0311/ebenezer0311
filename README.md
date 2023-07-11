@@ -5,11 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebenezer0311&label=Profile%20views&color=0e75b6&style=flat" alt="ebenezer0311" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks,Tensorflow**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Neural Networks**
 
 - 💬 Ask me about **Sckit-learn, Python, Data Analysis**
 
 - 📫 How to reach me **ebenezermanka1234@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/19dhlDcu2XYR5aa_KgGYB3qiY20zhaV_y/view?usp=sharing](https://drive.google.com/file/d/19dhlDcu2XYR5aa_KgGYB3qiY20zhaV_y/view?usp=sharing)
 
 - ⚡ Fun fact **Sarcasm and Humor**
 
