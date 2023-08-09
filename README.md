@@ -32,5 +32,5 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebenezer0311&layout=compact&langs_count=8&card_width=320" />
 </a>
-<br></br>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezer0311&" alt="ebenezer0311" /></p>
