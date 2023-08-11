@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ebenezermanka1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19dhlDcu2XYR5aa_KgGYB3qiY20zhaV_y/view?usp=sharing](https://drive.google.com/file/d/19dhlDcu2XYR5aa_KgGYB3qiY20zhaV_y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19dhlDcu2XYR5aa_KgGYB3qiY20zhaV_y/view?usp=sharing](https://drive.google.com/file/d/1rLQJiPfouwPDFtQ3VPAvGAEs0GEiPh2l/view?usp=sharing)
 
 - ⚡ Fun fact **Sarcasm and Humor**
 
